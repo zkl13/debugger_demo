@@ -1,7 +1,6 @@
 # debugger_demo
-source-map 
-如何利用source-map调试线上代码
-1、本地创建一个webpack 项目
+# 如何利用source-map调试线上代码
+- 1、本地创建一个webpack 项目
 mkdir debugger-demo 
 cd debugger-demo 
 npm init -y 
